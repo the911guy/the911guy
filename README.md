@@ -1,7 +1,7 @@
 Hi there 👋
 
 - 🎓 Final year CSE student at Vellore Institute of Technology, Vellore
-- 🌱 Frontend development 
+- 🌱 Web development 
 - 🌱 Cyber Security
 - 🔗 https://www.linkedin.com/in/abhisheksmattam
 - 🔗 https://leetcode.com/the911guy
